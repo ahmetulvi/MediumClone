@@ -1,0 +1,10 @@
+.bg-yellow{
+    background-color: #ffc017;
+}
+.border-med{
+    border-bottom: 1px solid rgba(41, 41, 41,1);
+}
+.text-medium{
+    font-size: 20px;
+    color: black;
+}
